@@ -3,7 +3,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-Blending Electrical and Electronics Engineering with software development, I specialize in Java, Spring Boot, Angular, and embedded systems, focusing on building efficient, real-world solutions.🦸‍.
+Passionate Software Developer with a background in Electrical and Electronics Engineering, specializing in Java, Spring Boot, Angular, and IoT. I thrive on creating innovative, efficient solutions that bridge technology and real-world applications.🦸‍.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-mangabo-36572b226) 
