@@ -3,7 +3,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a Software Engineer immersed in the world of Software development and Mathematics. I love adhering to clean code practices and principles.A life-long learner.Hoping to change the world 🦸‍.
+Blending Electrical and Electronics Engineering with software development, I specialize in Java, Spring Boot, Angular, and embedded systems, focusing on building efficient, real-world solutions.🦸‍.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-maina-ke/) 
