@@ -23,9 +23,10 @@ Blending Electrical and Electronics Engineering with software development, I spe
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 ![Jest JS](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-black?style=plastic&logo=junit&logoColor=%23F7DF1E)
-
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 
 ## Databases
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
