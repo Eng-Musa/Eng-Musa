@@ -7,7 +7,6 @@ Passionate Software Developer with a background in Electrical and Electronics En
 
 ## 🌐Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=portfolio&logoColor=white)](https://personal-portfolio-musa.vercel.app/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-mangabo-36572b226) 
 
 # 💻Tech Stack
