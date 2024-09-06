@@ -6,6 +6,8 @@
 Passionate Software Developer with a background in Electrical and Electronics Engineering, specializing in Java, Spring Boot, Angular, and IoT. I thrive on creating innovative, efficient solutions that bridge technology and real-world applications.🦸‍.
 
 ## 🌐Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=portfolio&logoColor=white)](https://personal-portfolio-musa.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-mangabo-36572b226) 
 
 # 💻Tech Stack
