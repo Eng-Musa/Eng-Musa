@@ -6,7 +6,7 @@
 I'm a developer with a passion for crafting accessible, pixel-perfect user interfaces that merge thoughtful design with solid engineering. 
 
 ## 🌐Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=portfolio&logoColor=white)](https://personal-portfolio-musa.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=portfolio&logoColor=white)](https://mosesmangabo.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-mangabo-36572b226) 
 
 # 💻Tech Stack
