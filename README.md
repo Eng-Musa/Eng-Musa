@@ -3,7 +3,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-Passionate Software Developer with a background in Electrical and Electronics Engineering, specializing in Java, Spring Boot, Angular, and IoT. I thrive on creating innovative, efficient solutions that bridge technology and real-world applications.🦸‍.
+I'm a developer with a passion for crafting accessible, pixel-perfect user interfaces that merge thoughtful design with solid engineering. 
 
 ## 🌐Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=portfolio&logoColor=white)](https://personal-portfolio-musa.vercel.app/)
