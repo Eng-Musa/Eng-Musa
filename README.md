@@ -1,9 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I’m Moses Mangabo <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">  
 I craft accessible, pixel-perfect user interfaces that merge thoughtful design with solid engineering.  
 
-<p align="center">
-  <a href="https://mosesmangabo.vercel.app/chat" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f916.svg" width="20px" alt="robot"/> 
+<p align="start">
+  <a href="https://mosesmangabo.vercel.app/chat" style="text-decoration:none;">> 
     <b> Ask MusAI</b>
   </a>
 </p>
