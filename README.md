@@ -2,7 +2,7 @@
 I craft accessible, pixel-perfect user interfaces that merge thoughtful design with solid engineering.  
 
 <p align="start">
-  <a href="https://mosesmangabo.vercel.app/chat" style="text-decoration:none;">> 
+  <a href="https://mosesmangabo.vercel.app/chat" target="_blank" style="text-decoration:none;">
     <b> Ask MusAI</b>
   </a>
 </p>
