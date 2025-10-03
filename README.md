@@ -2,10 +2,12 @@
 I craft accessible, pixel-perfect user interfaces that merge thoughtful design with solid engineering.  
 
 <p align="center">
-  <a href="https://mosesmangabo.vercel.app/chat">
-    <img src="https://img.shields.io/badge/🤖_Ask_MusAI-28a745?style=for-the-badge&logo=chatbot&logoColor=white" alt="Ask MusAI"/>
+  <a href="https://mosesmangabo.vercel.app/chat" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f916.svg" width="20px" alt="robot"/> 
+    <b> Ask MusAI</b>
   </a>
 </p>
+
 
 ---
 
