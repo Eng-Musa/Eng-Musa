@@ -25,5 +25,5 @@ Python · TensorFlow
 ---
 
 ### 🌐 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=portfolio&logoColor=white)](https://mosesmangabo.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-mangabo-36572b226)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=portfolio&logoColor=white)](https://mosesmangabo.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-mangabo-36572b226) 
