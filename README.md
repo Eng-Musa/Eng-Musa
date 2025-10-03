@@ -7,16 +7,18 @@ A developer passionate about crafting accessible, pixel-perfect UIs backed by so
 
 ### 💻 Tech Stack
 **Languages**  
-Java · JavaScript · TypeScript · C · C++
+Java · JavaScript · TypeScript 
 
 **Frameworks / Libraries**  
 Spring Boot · Angular · JUnit · Jasmine  
 
-**Databases & Platforms**  
-MongoDB · MySQL · PostgreSQL · Firebase · Vercel  
+**Databases**  
+MongoDB · MySQL · PostgreSQL · Firebase 
+**AI & ML**
+· Python · TensoFlow
 
 ---
 
 ### 🌐 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=vercel&logoColor=white)](https://mosesmangabo.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E91E63.svg?logo=portfolio&logoColor=white)](https://mosesmangabo.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-mangabo-36572b226)  
