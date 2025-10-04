@@ -1,4 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I’m Moses Mangabo <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">  
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Eng-Musa" alt="visitor badge"/></p>
 I craft accessible, pixel-perfect user interfaces that merge thoughtful design with solid engineering.  
 
 <p align="start">
