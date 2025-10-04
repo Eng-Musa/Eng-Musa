@@ -1,12 +1,17 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">,
-    I’m Moses Mangabo <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
-  </div>
-  <div>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Eng-Musa" alt="visitor badge"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <h2>
+        Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">,
+        I’m Moses Mangabo <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
+      </h2>
+    </td>
+    <td align="right">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Eng-Musa" alt="visitor badge"/>
+    </td>
+  </tr>
+</table>
+
 
 I craft accessible, pixel-perfect user interfaces that merge thoughtful design with solid engineering.  
 
